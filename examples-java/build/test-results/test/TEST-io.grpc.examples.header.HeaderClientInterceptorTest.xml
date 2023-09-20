@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.examples.header.HeaderClientInterceptorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-20T08:03:53" hostname="SeongUkui-MacBookPro-2.local" time="0.259">
+  <properties/>
+  <testcase name="clientHeaderDeliveredToServer" classname="io.grpc.examples.header.HeaderClientInterceptorTest" time="0.259"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

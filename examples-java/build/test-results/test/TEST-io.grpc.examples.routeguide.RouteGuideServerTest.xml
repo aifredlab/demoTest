@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.examples.routeguide.RouteGuideServerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-09-20T08:03:53" hostname="SeongUkui-MacBookPro-2.local" time="0.015">
+  <properties/>
+  <testcase name="getFeature" classname="io.grpc.examples.routeguide.RouteGuideServerTest" time="0.002"/>
+  <testcase name="routeChat" classname="io.grpc.examples.routeguide.RouteGuideServerTest" time="0.01"/>
+  <testcase name="listFeatures" classname="io.grpc.examples.routeguide.RouteGuideServerTest" time="0.001"/>
+  <testcase name="recordRoute" classname="io.grpc.examples.routeguide.RouteGuideServerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[9월 20, 2023 5:03:53 오후 io.grpc.examples.routeguide.RouteGuideServer start
+INFO: Server started, listening on 0
+9월 20, 2023 5:03:53 오후 io.grpc.examples.routeguide.RouteGuideServer start
+INFO: Server started, listening on 0
+9월 20, 2023 5:03:53 오후 io.grpc.examples.routeguide.RouteGuideServer start
+INFO: Server started, listening on 0
+9월 20, 2023 5:03:53 오후 io.grpc.examples.routeguide.RouteGuideServer start
+INFO: Server started, listening on 0
+]]></system-err>
+</testsuite>

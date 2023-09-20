@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.examples.header.HeaderServerInterceptorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-20T08:03:53" hostname="SeongUkui-MacBookPro-2.local" time="0.022">
+  <properties/>
+  <testcase name="serverHeaderDeliveredToClient" classname="io.grpc.examples.header.HeaderServerInterceptorTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[9월 20, 2023 5:03:53 오후 io.grpc.examples.header.HeaderServerInterceptor interceptCall
+INFO: header received from client:Metadata(grpc-accept-encoding=gzip,user-agent=grpc-java-inprocess/1.58.0)
+]]></system-err>
+</testsuite>

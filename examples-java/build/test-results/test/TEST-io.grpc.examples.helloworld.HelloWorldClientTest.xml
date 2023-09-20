@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.grpc.examples.helloworld.HelloWorldClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-20T08:03:53" hostname="SeongUkui-MacBookPro-2.local" time="0.011">
+  <properties/>
+  <testcase name="greet_messageDeliveredToServer" classname="io.grpc.examples.helloworld.HelloWorldClientTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[9월 20, 2023 5:03:53 오후 io.grpc.examples.helloworld.HelloWorldClient greet
+INFO: Will try to greet test name ...
+9월 20, 2023 5:03:53 오후 io.grpc.examples.helloworld.HelloWorldClient greet
+WARNING: RPC failed: Status{code=UNIMPLEMENTED, description=Method helloworld.Greeter/SayHello is unimplemented, cause=null}
+]]></system-err>
+</testsuite>
